@@ -1,3 +1,5 @@
+/* Page Home */
+
 .title-homepage{
   padding-top: 4em;
 	text-align:center;
@@ -8,11 +10,10 @@
 .homepage-description {
   text-align:center;
 	font-size: 18px;
+	margin: 24px 30px 24px 30px;
 }
 
 .homepage-description-paragraph{
   display:inline-block;
-  margin-left: 22px;
-  margin-right: 22px;
 }
 

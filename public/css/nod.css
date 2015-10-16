@@ -1,3 +1,17 @@
+
+/* Forms style */
+
+input {
+  padding-top:.5em; 
+  padding-bottom:.5em; 
+}
+/* I'm overidding bootstrap input-group */
+
+.input-group {
+	padding-top:.5em; 
+  padding-bottom:.5em; 
+}
+
 /* Page Home */
 
 .title-homepage{
@@ -33,3 +47,16 @@ form{
   padding-top: 6em; 
 
 }
+
+/* Page de demande de data */
+
+.data-demand {
+  padding-top:6em;
+}
+
+/* Hidden field in form */
+
+.hidden-field {
+  display:none;
+}
+

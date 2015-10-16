@@ -16,4 +16,14 @@
 .homepage-description-paragraph{
   display:inline-block;
 }
+a{
+	text-decoration: none;
+	color: #fff;
+	font-size:2em;
+}
+form{
+	float:left;
+	margin-left: 20%;
+	width:30em;
+}
 

@@ -60,3 +60,13 @@ form{
   display:none;
 }
 
+/* Page des commentaires */
+
+.comments-container {
+  padding-top:8em;
+}
+
+.image-profil {
+  height: 54px;
+	width: 74px;
+}

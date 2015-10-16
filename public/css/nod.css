@@ -1,0 +1,18 @@
+.title-homepage{
+  padding-top: 4em;
+	text-align:center;
+	display:inline;
+	font-size: 8em;
+}
+
+.homepage-description {
+  text-align:center;
+	font-size: 18px;
+}
+
+.homepage-description-paragraph{
+  display:inline-block;
+  margin-left: 22px;
+  margin-right: 22px;
+}
+

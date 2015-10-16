@@ -1,0 +1,23 @@
+	h1{
+		font-size: 3em;
+		margin: 0 auto;
+		text-align: center;
+		background-color: #eee;
+
+	}
+	.container{
+		border:solid 1px;
+		background-color: #ccc;
+	}
+	.colonne{
+		float:left;
+		width:10em;
+		border: solid 1px;
+		margin-left: 10%;
+		background-color: white;
+		height:15em;
+	}
+	form{
+		float:left;
+		margin-top: 3em;
+	}
